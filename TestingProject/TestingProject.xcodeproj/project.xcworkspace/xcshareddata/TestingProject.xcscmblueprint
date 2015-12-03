@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8eb9b8bc-3685-43ec-a756-4e4640d73b74" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8eb9b8bc-3685-43ec-a756-4e4640d73b74" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CE2EF131-BE27-485E-A3A9-FD4F98B6CED7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8eb9b8bc-3685-43ec-a756-4e4640d73b74" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TestingProject",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TestingProject.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/184.169.151.248\/svn\/waapp-ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8eb9b8bc-3685-43ec-a756-4e4640d73b74"
+    }
+  ]
+}
