@@ -8,7 +8,7 @@
 
 import UIKit
 import CoreData
-//Hello are you There testing2 Okay branched switched.
+
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
