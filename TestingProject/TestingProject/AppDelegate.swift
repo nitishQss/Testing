@@ -9,6 +9,7 @@
 import UIKit
 import CoreData
 //This is new develop branch feature branch.
+//Now i am merging from the terminal. 
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
